@@ -1524,8 +1524,8 @@ elif selected_section == "📚 References":
         },
         {
             "image": "paper_5.jpg",
-            "title": "Antarctic Oceanography - Marine Environmental Research",
-            "authors": "Multiple authors",
+            "title": "Phytoplankton community-level bio-optical assessment in a naturally mercury contaminated Antarctic ecosystem (Deception Island)",
+            "authors": "Bernardo Duarte, Maria Teresa Cabrita, Tânia Vidal, Joana Luísa Pereira, Mário Pacheco, Patrícia Pereira, João Canário, Fernando J.M. Gonçalves, Ana Rita Matos, Rui Rosa, João Carlos Marques, Isabel Caçador, Carla Gameiro",
             "description": "This study examines oceanographic processes and environmental conditions in Antarctic waters, contributing to our understanding of the Southern Ocean ecosystem and its role in global climate systems.",
             "url": "https://www.sciencedirect.com/science/article/pii/S0141113618304380",
             "doi": "10.1016/S0141-1136(18)30438-0",
@@ -1534,8 +1534,8 @@ elif selected_section == "📚 References":
         },
         {
             "image": "paper_6.png",
-            "title": "Southern Ocean Biogeochemistry and Circulation",
-            "authors": "Multiple authors",
+            "title": "Seasonal changes of dissolved nutrients within and around Port Foster Deception Island, Antarctica",
+            "authors": "Anne A Sturz, Sarah C Gray, Kathleen Dykes, Andrew King, Jennifer Radtke",
             "description": "This research investigates biogeochemical processes and ocean circulation patterns in the Southern Ocean, providing insights into nutrient dynamics and their impact on marine productivity.",
             "url": "https://www.sciencedirect.com/science/article/pii/S0967064503000869",
             "doi": "10.1016/S0967-0645(03)00086-9",
