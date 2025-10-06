@@ -6,9 +6,11 @@
 
 **An advanced data visualization and analysis platform for Antarctic oceanographic research**
 
-[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://dichosoceanapp-alrova.streamlit.app/)
 [![Python](https://img.shields.io/badge/Python-3.12-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](LICENSE)
+
+🌐 **[Launch DICHOSOcean Panel](https://dichosoceanapp-alrova.streamlit.app/)**
 
 [Features](#-features) • [Quick Start](#-quick-start) • [Documentation](#-documentation)
 
