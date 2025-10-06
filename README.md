@@ -2,10 +2,7 @@
 
 <div align="center">
 
-<div style="position: relative;">
-  <img src="resources/hesperides.jpeg" alt="Hespérides Background" style="width: 100%; max-width: 800px;">
-  <img src="resources/logodichoso2.png" alt="DICHOSOcean Logo" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); max-width: 60%;">
-</div>
+![Hespérides](resources/hesperides.jpeg)
 
 **An advanced data visualization and analysis platform for Antarctic oceanographic research**
 
