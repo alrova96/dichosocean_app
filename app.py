@@ -431,7 +431,7 @@ if selected_section == "❄️ About DICHOSOcean":
     # Display Background Video
     # -----------------------------------------------------------------------------
     # Load and display video file showing oceanographic mooring deployment
-    video_file = open('resources/fondeos.MP4', 'rb')
+    video_file = open('resources/fondeos.mp4', 'rb')
     video_bytes = video_file.read()
     # Video loops continuously, autoplays, and is muted for better UX
     st.video(video_bytes, loop=True, autoplay=True, muted=True)
