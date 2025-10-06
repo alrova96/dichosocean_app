@@ -2,7 +2,10 @@
 
 <div align="center">
 
-![DICHOSOcean Banner](resources/logodichoso2.png)
+<div style="position: relative;">
+  <img src="resources/hesperides.jpeg" alt="Hespérides Background" style="width: 100%; max-width: 800px;">
+  <img src="resources/logodichoso2.png" alt="DICHOSOcean Logo" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); max-width: 60%;">
+</div>
 
 **An advanced data visualization and analysis platform for Antarctic oceanographic research**
 
@@ -10,7 +13,7 @@
 [![Python](https://img.shields.io/badge/Python-3.12-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](LICENSE)
 
-[Live Demo](#-live-demo) • [Features](#-features) • [Quick Start](#-quick-start) • [Documentation](#-documentation)
+[Features](#-features) • [Quick Start](#-quick-start) • [Documentation](#-documentation)
 
 </div>
 
@@ -28,16 +31,6 @@ The platform provides interactive dashboards for exploring complex oceanographic
 - **Analyze** relationships between multiple biogeochemical variables
 - **Compare** interannual variations between 2024 and 2025 Antarctic campaigns
 - **Communicate** scientific findings through intuitive, interactive visualizations
-
----
-
-## 🚀 Live Demo
-
-🌐 **[Launch DICHOSOcean Panel](https://your-app-url.streamlit.app)** *(Coming Soon)*
-
-<div align="center">
-  <img src="resources/interannual.jpg" alt="Dashboard Preview" width="800"/>
-</div>
 
 ---
 
@@ -321,16 +314,6 @@ The `app.py` file is organized into clear sections:
 
 ---
 
-## 🙏 Acknowledgments
-
-This work is part of the **DICHOSO project** (Deception Island: CHemical Oceanography in the Southern Ocean), funded by the Spanish National Research Council (CSIC) and conducted aboard the R/V Hespérides during the 2024 and 2025 Antarctic campaigns.
-
-**Principal Investigators:**
-- Dr. I. Emma Huertas (ICMAN-CSIC)
-- Dr. Antonio Tovar-Sánchez (ICMAN-CSIC)
-
----
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
@@ -350,14 +333,6 @@ If you use this software in your research, please cite:
   url = {https://github.com/yourusername/dichosocean}
 }
 ```
-
----
-
-## 🔗 Related Publications
-
-- **Belyaev et al. (2024)**. Hydrothermal alteration of seawater biogeochemistry in Deception Island. *Frontiers in Marine Science*. [DOI: 10.3389/fmars.2024.1432122](https://doi.org/10.3389/fmars.2024.1432122)
-
-- **Henley et al. (2020)**. Changing Biogeochemistry of the Southern Ocean and Its Ecosystem Implications. *Frontiers in Marine Science*. [DOI: 10.3389/fmars.2020.00581](https://doi.org/10.3389/fmars.2020.00581)
 
 ---
 
