@@ -202,8 +202,8 @@ def load_data():
     pd.DataFrame
         Cleaned dataframe with outliers removed
     """
-    # Read the prepared CSV file
-    df = pd.read_csv('data/dichosocean_prepared.csv')
+    # Read the prepared CSV file from Dropbox using Streamlit secrets
+    df = pd.read_csv(st.secrets["DATA_URL"])
 
     # Rename columns to match the app's expected format
     # This standardizes column names for easier reference throughout the code
@@ -252,8 +252,8 @@ def load_raw_data():
     pd.DataFrame
         Dataframe with all original values (no outlier removal)
     """
-    # Read the prepared CSV file without removing outliers
-    df = pd.read_csv('data/dichosocean_prepared.csv')
+    # Read the prepared CSV file from Dropbox using Streamlit secrets
+    df = pd.read_csv(st.secrets["DATA_URL"])
 
     # Rename columns to match the app's expected format
     df = df.rename(columns={
